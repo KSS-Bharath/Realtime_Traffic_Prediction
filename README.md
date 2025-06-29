@@ -1,4 +1,4 @@
-#Real-Time Traffic Prediction Using LSTM
+REAL-TIME TRAFFIC PREDICTION USING LSTM
 
 This project predicts hourly traffic flow at a junction using a Long Short-Term Memory (LSTM) neural network. It simulates real-time traffic data and provides next-hour vehicle count forecasts based on live input.
 
