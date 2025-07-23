@@ -10,13 +10,14 @@ Trained on historical traffic data (Kaggle dataset),
 Built with Python, TensorFlow, Pandas, NumPy.
 
 #Project Structure
+```bash
 traffic_prediction_project/
 ├── traffic # Traffic dataset
 ├── model.py # Model training and saving
 ├── stream_sim.py # Simulates real-time traffic input
 ├── real_time_predict.py # Predicts traffic from streamed data
 └── README.md # Project documentation
-
+```
 # Dataset
 **Source**: [Kaggle Traffic Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/traffic-prediction-dataset)**Description**: Hourly vehicle counts at 4 junctions in Hyderabad, India.
 **Used Features**: `DateTime`, `Junction`, `Vehicles`
